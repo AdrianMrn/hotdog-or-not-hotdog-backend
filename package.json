@@ -1,0 +1,7 @@
+{
+  "name": "MLApp-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Adriaan <adriaanmarain300@gmail.com>",
+  "license": "MIT"
+}
